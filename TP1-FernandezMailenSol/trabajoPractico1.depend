@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1586116560 source:c:\users\fernandez\desktop\programacion\laboratorio de computación\tp\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587235728 source:c:\users\fernandez\desktop\programacion\laboratorio de computación\tp\tp1-fernandezmailensol\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587238514 source:c:\users\fernandez\desktop\programacion\laboratorio de computación\tp\tp1-fernandezmailensol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587177568 c:\users\fernandez\desktop\programacion\laboratorio de computación\tp\tp1-fernandezmailensol\funciones.h
+
